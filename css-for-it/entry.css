@@ -1,0 +1,247 @@
+.entry{
+    width: 1000px;
+    margin-inline:auto;
+    text-align: center;
+}
+#logo{
+    width: 500px;
+    display: inline-block;
+    
+    
+}
+.topic{
+   
+    text-align:center ;
+    background-color:rgb(189, 156, 108);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.component{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.content {
+    font-size: 23px;
+   
+    
+}
+.sub-con , .content{
+    font-weight: bold;
+    text-align: ;
+    color: #26528d;
+    margin: 8px;
+
+}
+.sub-con{
+    font-size: 18px;
+}
+.entry{
+    margin-top: 20px;
+}
+.course-des a {
+    color: #26528d;
+    background-color: rgb(196, 196, 196);
+    margin-left: 20px;
+    padding: 20px 20px;
+    display: inline-block;
+    text-align: center;
+}
+ .component div a {
+    width: 122px;
+    text-align: center;
+    vertical-align: top;
+    margin-block-end: 16px;
+    margin-block-start: 0px;
+ 
+
+}
+.description a{
+    background-color: white;
+     color: gray;
+   text-align-last: center;
+   display: inline-block;
+   text-align: center;
+  
+}
+.contact{
+        color: #fff;
+    }
+    .cs {
+        margin-right: 60px;
+    }
+    .it{
+        margin-right: 0px;
+    }
+    .grad{
+        margin-left: 50px;
+
+    }
+    .phd{
+        margin-left: 60px;
+    }
+    .footer{
+        background-color: #26528d;
+        width: 900px;
+        margin-inline: auto;
+        padding:20px;
+        margin-top: 100px;
+    }
+    .title{
+        color:rgb(203, 137, 38) ;
+        font-weight: bold;
+        ;
+}
+.details{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.details:hover{
+     color: rgb(203, 137, 38);
+     opacity: 0.5;
+     cursor: pointer;
+
+}
+.foot{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+   
+}
+.social-media{
+    text-align: right;
+    color:rgb(203, 137, 38);
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.fa{
+padding: 10px;
+font-size: 10px;
+width: 20px;
+margin-left: 25px;
+margin-top: 5px;
+text-align:center;
+text-decoration: none;
+background-color:black;
+color:white;
+}
+
+.fa:hover{
+    background-color: white;
+    color: black;
+    transition: 0.25s;
+}
+.socialIcons{
+    text-align: end;
+}
+.button{
+   
+    width: 150px;
+    margin-top: 50px;
+    
+    
+
+}
+.click-me{
+    width: 50px;
+}
+button{
+
+}
+button{
+    background-color:rgb(203, 137, 38);
+    color: white;
+    border: none; height: 30px; width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.1s;
+     justify-content: center;
+    margin-inline: auto;
+    align-items: center;
+    margin-left: 700px;
+
+    
+    }
+button:hover{
+           opacity: 0.7;
+           transition: background-color 1s,
+           color 1s;
+
+    }
+button:active{
+      opacity: 0.4;          
+      }
+      .button{
+        display: block;
+      }
+      .pics{
+       
+        margin-top: 50px;
+        margin-bottom: 50px;
+     }
+   .ccn{
+    width: 250px;
+       vertical-align: top;
+       margin-inline: auto;
+       text-align: auto;
+       margin-left: 20px;
+       margin-bottom: 30px;
+       margin-top: 20px;
+        display: inline-block;
+        transition: transform 1s ease-in-out;
+    }
+
+        
+ 
+.ccn:hover{
+    opacity: 0.8;
+    cursor: pointer;
+    transition: 0.15s;
+}
+.short-course{
+    color:  ;
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.image-container {
+    display: flex;
+
+}
+.ini{
+    text-decoration: none;
+}
+.school-info{
+    color: white;
+    text-decoration: none;
+    vertical-align: bottom;
+}
+.school-info:hover{
+color: rgb(203, 137, 38);
+opacity: 0.5;
+cursor: pointer;
+}
+.pic-home{
+    width: 100px;
+    background-color: rgba(255, 255, 255, 0.742);
+    margin-left: 200px;
+    margin-top: 20px;
+        
+}
+.pic-home:hover{
+    cursor: pointer;
+    border-radius: 20px;
+  }
+.img-home{
+width: 30px;
+display: flex;
+
+}

@@ -1,0 +1,173 @@
+.navbar ul {
+    list-style: none;
+    background-color:#00357a ;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 10px;
+}
+.navbar a:hover{
+    background-color:blue ;
+
+}
+.navbar li{
+    float: right;
+   margin: 20px;
+}
+b{
+    color: beige;
+}
+.bground{
+    background:url(des.jpg ) ;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    height: 1500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-size: cover
+    
+}
+.body{
+    background-color: #b2beb5;
+     height: 1000px;
+     padding: 20px;
+}
+.body,.head,.footer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+
+}
+
+.title{
+    display: block;
+    width: 300px;
+    
+}
+.head{
+    background-color: white;
+    width: 940px;
+    }
+.footer{
+    background-color: #00357a;
+    height: 300px;
+    width: 940px;
+    }
+    .greeting{
+        text-align: center;
+        font-family: Arial;
+        font-weight: bold;
+        color:  #00357a;
+        font-size: 30px;
+        margin-top: 0;  
+        
+    }
+    .p-1{
+        color: black;
+        justify-content:center;
+        line-height: 30px;
+    }
+.pics{
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
+.cs-it,
+.it-pic{
+    width:100%;
+}
+.details{
+    color: #ffffff;
+    padding-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+}
+.topic{
+    color: white;
+    margin-top: 0;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.courses{
+    line-height: 5px;
+    font-size: 16px;
+}
+.info{
+    display: inline-block;
+    vertical-align: top;
+}
+.info-cs:hover{
+      color: #b2beb5;
+      cursor: pointer;
+}
+.location{
+    display: inline-block;
+    color: white;
+    display: inline-block;
+    margin-left: 100px;
+    vertical-align: top;
+    padding-top: 50px;
+}
+.tel{
+    line-height: 5px;
+}
+.fa{
+    padding: 10px;
+    font-size: 10px;
+    width: 10px;
+    margin-left: 25px;
+    margin-top: 5px;
+    text-align: right;
+    text-decoration: none;
+    background-color:black;
+    color:white;
+    }
+    
+    .fa:hover{
+        background-color: white;
+        color: black;
+        transition: 0.25s;
+    }
+    .social-media{
+        text-align: right;
+        color:rgb(203, 137, 38);
+        font-family: Arial;
+        font-size: 12px;
+        font-weight: bold;
+    }    
+    .school-info{
+        color: white;
+        text-decoration: none;
+        vertical-align: bottom;
+        line-height: 20px;
+    }
+    .school-info:hover{
+        color: #b2beb5;
+        cursor: pointer;
+    }
+    .pic-home{
+        width: 100px;
+        background-color: rgba(255, 255, 255, 0.742);
+        margin-top: 20px;
+        margin-left: 200px;
+            
+    }
+    .pic-home:hover{
+        cursor: pointer;
+        border-radius: 20px;
+      }
+    .img-home{
+    width: 30px;
+    display: flex;
+    }

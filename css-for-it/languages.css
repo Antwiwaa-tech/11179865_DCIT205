@@ -1,0 +1,176 @@
+body{ 
+   background: black;
+   background-attachment: fixed;
+    margin: 0;
+    background-repeat: no-repeat;
+   
+    }
+        
+    .form{
+       width: 1000px;
+        margin-inline: auto;
+       background-color:  #00357a;
+       opacity: 0.8;
+       margin-top: 100px;
+       padding: 20px;
+       height: 1700px;
+       border-radius: 9px;
+       color: white;
+       border: 2px solid rgba (255, 255,255,.2);
+       
+    }
+    
+    .heading{
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 23px;
+        margin-bottom: 5px;
+        text-align: center;
+        color:wheat;
+    }
+    .sub-head{
+        font-size: 18px;
+        text-align: center;
+        color: beige;
+    }
+    .input-detail{
+        display: inline-block;
+        margin-right:50px;
+        
+    }
+    .body{
+      
+    }
+    .name-box :active{
+    
+        background-color:rgb(116, 112, 112);
+    }
+    .name-box , .date-box{
+        margin-right: 12px;
+        margin-left: 70px;
+         border-color:beige;
+          border-radius: 3px; 
+          border-width: 2px;
+          height: 24px;
+          width: 200px
+          
+    
+    }
+    .date-box{
+         margin-left: 80px;
+    }
+    .phone-name{
+          margin-bottom: 15px;
+          margin-left: 70px;
+          margin-top: 4px;
+          border-color:beige;
+          size: 100px;
+          border-radius: 3px; 
+          border-width: 2px;
+          height: 24px;
+          width: 440px
+        
+          
+    }
+    .box{
+        margin-bottom: 50px;
+    }
+    .email-box{
+          
+          margin-left: 70px;
+          margin-top: 4px;
+          border-color:beige;
+          size: 100px;
+          border-radius: 3px; 
+          border-width: 2px;
+          height: 24px;
+          width: 440px
+          
+    }
+    
+    
+    .details{
+        margin-top: 40px;
+        margin-bottom: 60px;
+        text-align: left;
+    
+    }
+    .education, .org {
+        display: inline-block;
+        font-size: 18px;
+    }
+    .education-bground{
+        display: inline-block;
+        margin-left: 50px;
+        vertical-align: top;
+    }
+    .prim{
+        display: block;
+    }
+    .edu-back{
+        font-weight: bold;
+        font-size: 18px;
+        color:beige;
+       
+    }
+    .sch-course{
+        text-align: center;
+        margin-top: 35px;
+        margin-bottom: 60px;
+        
+    }
+    .organisation{
+        font-size: 18px;
+        text-align: center;
+        font-weight: bold;
+        font-size: 18px;
+        color: beige;
+    }
+    .org{
+        margin-left: 70px;
+        font-size: 18px;
+    }
+    .place-hol{
+        margin-left: 10px;
+        border-color:beige;
+        size: 100px;
+        border-radius: 3px; 
+        border-width: 2px;
+        height: 24px;
+        width: 200px
+        
+    }
+    .course-sch{
+        text-align: left;
+    }
+    .submit-button{
+        background-color:rgb(44, 42, 88);
+        border: none; height: 30px; width: 105px;
+        color:white;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: opacity 0.1s;
+        }
+    
+        .submit-button:hover{
+               opacity: 0.7;
+               transition: background-color 1s;
+               color: 1s;
+    
+        }
+        .submit-button:active{
+          opacity: 0.4;            }
+    
+          .submit{
+           text-align: center;
+           margin-top: 100px;
+          }
+        .sch{
+            display: inline-block;
+        
+        }
+        .level{
+            display: inline-block;
+        
+        }

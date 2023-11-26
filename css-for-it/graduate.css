@@ -1,0 +1,197 @@
+
+.head{
+    text-align: center;
+    color: #00357a;
+    font-weight: bold;
+    font-size: 23px;
+    
+
+}
+
+.lvl{
+    display: inline-block;
+     margin-left: 30px;
+     
+
+}
+.graduate{
+    display: inline-block;
+    width: 500px;
+}.graduateug{
+    margin-top: 100px;
+
+    margin-left: 50px;
+}
+
+.category{
+    color: #00357a;
+    margin-left: 50px;
+    font-weight: bold;
+    }
+    .img{
+        display: inline-block;
+        width: 650px;
+        vertical-align: top;
+        margin-bottom: 50px;
+    }
+    .it{
+        width: 500px;
+        margin-top: 0px;
+        margin-left: 36px;
+        
+    }
+    .cs{
+        margin-left: 100px;
+     width: 550px;
+    }
+.mphil-msc{
+    
+    display: inline-block;
+    vertical-align: text-bottom;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.phd{
+
+    vertical-align:bottom;
+    margin-left: 30;
+    width: 500px;
+    margin-top: 50px;
+}
+.line{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.dropdown button{
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(182, 151, 93);
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+    cursor: pointer;
+}
+.dropdown a{
+    text-decoration: none;
+    display:block;
+    color: #000;
+    padding: 5px 6px;
+    
+    
+   
+}
+.dropdown .content{
+    display: none;
+    position: absolute;
+   background-color: white;
+    min-width: 100px;
+    box-shadow: 2px 2px 5px black;
+}
+.dropdown:hover .content{
+       display: block;
+}
+
+
+.logo{
+    display: block;
+}
+.section{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial;
+    display: inline-block;
+    color: #00357a;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    }
+
+.footer{
+background-color: #00357a;
+margin-top: 150px;
+padding: 50px;
+height: 200px;
+}
+.foot{
+display: inline-block;
+vertical-align: top;
+margin-left: 5px;
+
+}
+.title{
+font-weight: bold;
+color:rgb(203, 137, 38);
+display: inline-block;
+margin-right: 20px;
+
+}
+.content{
+color: white;
+color: white;
+text-decoration: none;
+vertical-align: bottom;
+
+
+}
+.content :hover{
+  color:rgb(252, 153, 5);   
+    opacity: 0.5;
+    cursor: pointer;
+}
+.paragraph{
+    margin-left: 50px;
+    width: 850px;
+    line-height: 30px;
+    color: #00357a;
+    
+}
+.tel-email{
+    color: white;
+}
+.pic-home{
+    width: 100px;
+    background-color: rgba(255, 255, 255, 0.742);
+        
+}
+.pic-home:hover{
+    cursor: pointer;
+    border-radius: 20px;
+  }
+.img-home{
+width: 30px;
+display: flex;
+
+}
+
+.school-info{
+    color: white;
+    text-decoration: none;
+    vertical-align: bottom;
+}
+.social-media{
+    text-align: right;
+    color:rgb(203, 137, 38);
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+.fa{
+    padding: 10px;
+    font-size: 10px;
+    width: 20px;
+    margin-left: 25px;
+    margin-top: 5px;
+    text-align: center;
+    text-decoration: none;
+    background-color:black;
+    color:white;
+    }
+    
+    .fa:hover{
+        background-color: white;
+        color: black;
+        transition: 0.25s;
+    }
