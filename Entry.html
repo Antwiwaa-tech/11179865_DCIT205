@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entry Requirements</title><link rel="stylesheet" href="css-for-it/entry.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+    
+   <div class="entry">
+    <img id="logo" src="cs-pics/uglolo.jpg" alt="ug logo">
+    <div class="topic">
+         <p class="content"> ENTRY REQUIREMENTS</p>
+         <p class="sub-con">Be part of us,as we emback on a game changing journey</p>
+        </div>
+        <div class="component">
+        <div class="course-des">
+         <a>COMPUTER SCIENCE </a>
+        <a>INFORMATION TECHNOLOGY</a>
+         <a>GRADUATE MPhil and MSc</a>
+            <a>GRADUATE PHD</a>
+
+   </div> 
+   <div  class="description" >
+    
+    <a class="cs">Open the door to sought-after technology careers with a world-class Bachelor of Science in Computer Science. </a>
+    <a class="it">There is a chance for students who want to enroll in IT and have equal chances as Computer Technology.</a>
+    <a class="grad">Embrace world class graduate education with unique blend of cutting-edge re-search research and industry experience. </a>
+    <a class="phd">Our PHDs lead the effort to extend the boundaries of knowledge through quality and industry relevant research.</a>
+   </div>
+        </div>
+        <p class="short-course">Join Our Short Course programing</p>
+        <div class="image-container">
+        <img id="dynamicImage1" title="Computer Network Fundamental"  class="ccn" src="cs-pics/CCNA.png"> 
+        <img id="dynamicImage2" class="ccn" title="Introduction to web programing " src="cs-pics/Web Dev.png">
+         <img id="dynamicImage3" class="ccn"  title="Information Security and Ethical Hacking " src="cs-pics/Cyber Security.jpg">
+         <img id="dynamicImage4" title="Mobile Applcation Development " class="ccn"src="cs-pics/Mobile App Dev.jpg">
+         </div>
+</div>
+<div  class="button">
+<button title="click me" class="click">
+<a class="ini" href="file:///C:/Users/PC/STUDENT-ID_DCIT205/language.html"> GET STARTED. REGISTER NOW</a></button>
+</div>
+
+<div class="footer">
+    <div class="foot">
+        <P class="title">UG,LEGON</P>
+        <ul class="details">
+          <a href="file:///C:/Users/PC/STUDENT-ID_DCIT205/ug.html" class="school-info"> Overview</a> 
+            </ul>
+            <p class="title">CONTACT US ON </p>
+            <ul class="contact">
+                <li>pad@ug.edu.gh</li>
+                <li>+233-(0)302-213820</li>
+                <li>P.O.BOX LG 25</li>
+                <li>Legon,Acraa</li>
+            
+    </ul>
+    </div>
+    <div class="foot">
+        <P class="title">COMPUTER SCIENCE</P>
+        <ul class="details">
+            <a href="file:///C:/Users/PC/STUDENT-ID_DCIT205/cs.html" class="school-info">Overview</a>
+            </ul>
+            <p class="title">COURSES </p>
+            <ul>
+                <li><a href="file:///C:/Users/PC/STUDENT-ID_DCIT205/undergraduate.html" target="_blank" class="school-info">Undergraduate</a></li>
+                    <li ><a href="file:///C:/Users/PC/STUDENT-ID_DCIT205/graduate.html" target="_blank" class="school-info">Graduate</a></li>
+                  
+               </ul>
+    </div>
+    <div class="foot">
+        <P class="title">CONTACT US ON</P>
+        
+            <p class="title">PHONE AND EMAIL</p>
+            <ul class="contact">
+                <li > +233 501 382 035</li>
+                <li> +233 559 145 698</li>
+              <li >   dcs@ug.edu.gh </li>
+    </ul>
+    </div>
+    <div class="pic-home">
+        <a href="file:///C:/Users/PC/STUDENT-ID_DCIT205/web.html" ><img title="home" class="img-home" src="cs-pics/home.png"></a>
+    </div>
+    <p class="social-media">SOCIAL MEDIA PLATFORMS</p>
+                            
+    <div class="socialIcons"> 
+        <a href="https://web.facebook.com/univofgh/?_rdc=1&_rdr" class="fa fa-facebook"></a>
+          <a  href="https://twitter.com/VoiceOfUg" class="fa fa-twitter"></a>
+            <a href="https://www.instagram.com/universityofghana/" class="fa fa-instagram"></a>
+    </div>
+
+</div>
+    
+</div>
+<script>
+    var imageContainer = document.querySelector('.image-container');
+    var images = document.querySelectorAll('.ccn');
+    var titles = [
+        'Computer Network Fundamental',
+        'Introduction to web programming',
+        'Information Security and Ethical Hacking',
+        'Mobile Application Development'
+    ];
+
+    var index = 0;
+
+    function changeImage() {
+        // Swap the source (src) attributes of adjacent images
+        var tempSrc = images[index].src;
+        images[index].src = images[index + 1].src;
+        images[index + 1].src = tempSrc;
+
+        index = (index + 2) % (images.length - 1); // Move to the next pair of images
+    }
+
+    // Change the image every 5 seconds (adjust the time as needed)
+    setInterval(changeImage, 5000);
+</script>
+
+
+</body>
+</html>

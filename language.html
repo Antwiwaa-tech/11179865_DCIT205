@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Unique page</title><link rel="stylesheet" href="css-for-it/languages.css">
+     
+</head>
+<body >
+    <div class="bgcolor">  
+    
+<div class="form">
+    <form>
+     <div class="body">
+        <p class="heading"> <b>Web Registration Form</b></p>
+        <p class="sub-head"> 
+            Please fill this form to register for short course web development the University of Ghana Computer Science Department
+        </p>
+    <div class="details">
+        <div class="box ">
+           <p class="input-detail">Name&#42;</p>
+           <input class="name-box" placeholder="Fist" required> 
+            <input required class="name-box" placeholder="Last">
+        </p>
+        </div>
+              
+       
+        <div class="box">
+            <p class="input-detail">Email&#42;</p> <input placeholder="nanaafua@gmial.com" required class="email-box">
+        </div>
+        <div class="box">
+            <p class="input-detail">Phone&#42;</p><input type="tel" class="phone-name" placeholder="#### #### ####">
+        </div>
+        <div class="box">
+            <p class="input-detail">Date of Birth&#42;</p>
+            <input class="date-box" placeholder="mm/dd/yyyy">
+        </div>
+        
+
+       </div>
+       <div class="sch-course">
+       
+       <div class="education-bground" >
+             <p class="edu-back">Required Course</p>
+             <div class="course-sch">
+       <div  class="prim"><input name="school" type="radio" ><p class="education">HTML and CSS</p></div>
+       </div>
+       </div>
+       <div class="education-bground" >
+        <p class="edu-back">Select your courses you want to register </p>
+        <div class="course-sch">
+  <div class="prim"> <input  type="checkbox" ><p class="education">Javascript</p></div>
+  <div class="prim"><input  type="checkbox" ><p class="education">Structured Query Language(SQL)</p></div>
+  <div class="prim"> <input  type="checkbox" ><p class="education">Ruby</p></div>
+  <div class="prim"> <input  type="checkbox" ><p class="education">Python</p></div>
+  
+  </div>
+       </div>
+            <div class="education-bground " >
+                <p class="edu-back">Educational Background</p>
+                <div class="level">
+          <div class="sch"> <input  type="checkbox" ><p class="education">Primary School</p></div>
+          <div class="sch"><input  type="checkbox" ><p class="education">Secondary School</p></div>
+          <div class="sch"> <input  type="checkbox" ><p class="education">Bachelor's Degree</p></div>
+          <div class="sch"> <input  type="checkbox" ><p class="education">Master's Degree</p></div>
+          <div class="sch"> <input  type="checkbox" ><p class="education">PhD</p></div>
+          </div>
+               </div>
+                
+        
+       <p class="organisation">Enter Organisation</p>
+
+       <p class="org">Enter Organisation</p><input class="place-hol" type="org" placeholder="your answer">
+       <p class="org" >Position</p><input  class="place-hol" type="org" placeholder="your answer">
+
+     </div>
+     <div class="submit">
+        <button class="submit-button">Submit</button>
+    </div>
+    </div>
+   
+    </div>
+     </form>
+</div>
+    </div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var form = document.querySelector('form');
+            form.addEventListener('submit', function (event) {
+                var nameBox = document.querySelector('.name-box');
+                var emailBox = document.querySelector('.email-box');
+                var phoneBox = document.querySelector('.phone-name');
+                var dateBox = document.querySelector('.date-box');
+
+                if (nameBox.value.trim() === '' || emailBox.value.trim() === '' || phoneBox.value.trim() === '' || dateBox.value.trim() === '') {
+                    
+                    event.preventDefault();
+                    alert('Please fill in all required fields.');
+                } else {
+                    // Display a success message
+                    alert('Form submitted successfully!');
+                }
+            });
+        });
+    </script>
+</body>
+</html>.
