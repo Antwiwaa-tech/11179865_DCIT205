@@ -9,6 +9,8 @@ Nana Afua Antwiwaa Conduah,11179865.
 
 
 I have learnt that code is easy to grab when you always practice.
+
+Screenshoots of my webpages :
   ![home page](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/73bcf852-1919-4875-a657-7fd618ec8a72)
 ![about-cs-dapartment](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/c3dc7959-e3a7-4058-b6c6-3feb20801a8f)
 ![about-ug](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/53e39a6a-7689-400c-8f9c-a6c4b797c974)
