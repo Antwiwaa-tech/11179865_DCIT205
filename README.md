@@ -16,17 +16,26 @@ Nana Afua Antwiwaa Conduah,11179865.
 
 
 I have learnt that code is easy to grab when you always practice.
+
+
+SCREENSHOOT OF MY PAES
+
   ![home page](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/73bcf852-1919-4875-a657-7fd618ec8a72)
 ![about-cs-dapartment](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/c3dc7959-e3a7-4058-b6c6-3feb20801a8f)
 ![about-ug](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/53e39a6a-7689-400c-8f9c-a6c4b797c974)
-![undergraduate-courses](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/d874f079-6ad7-48f1-9873-fa2b096183ed)
-![graduate-courses](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/290cf531-0e9b-4a38-a41d-4ecd550ec77b)
-![Entrypage](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/ac9689a6-c06c-4f6b-8df2-4308778811cc)
-![entryform](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/ea4d452d-51a6-49eb-8a27-a38cd7fad7f5)
-![webdev-page](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/2a8bc863-8ede-4341-8eeb-c4b1cd1fb54b)
-![webdev-form](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/5ee18529-8dab-49d0-b40d-fa9f1b954302)
+![undergraduate-courses](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/d9044f14-0d53-411a-96f2-a49b869eb015)
+![graduate](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/ccf5ffb1-70ee-4724-94da-9657d121ea2b)
 
+![short-courses](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/03857208-e354-4cdd-8f37-4ee67c5c882b)
+![short-course-form](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/98ee450e-39b5-471d-b00e-1558399b23d6)
+ 
+MY ADDITIONAL CS-PAGE
+ 
+![web-dev1](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/4b69d137-37ec-408d-bf85-588c16949b73)
+![web-dev2](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/37bacaad-cee3-4692-810c-935afaaa5e1e)
+![web-dev-form](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/d0115a80-b74d-4e23-8c7c-c76365149532)
 EVENT PAGE
-![event1](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/cad25c46-8179-492f-ad61-f7c5002af8b1)
-![event2](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/04bce055-301d-4c03-a6cd-9825dcde21aa)
-![event](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/784bc785-a306-432a-8e7c-d3897b039500)
+
+![event-page](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/b11fb915-42b2-4f28-8352-58defd4a8378)
+![event2](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/89f90df7-0b2e-4303-ac56-a4377403c702)
+![event3](https://github.com/Antwiwaa-tech/11179865_DCIT205/assets/143754295/6d291d5a-d660-4d0d-bc23-496e2ab1d160)
