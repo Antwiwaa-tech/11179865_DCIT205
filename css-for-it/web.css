@@ -41,7 +41,6 @@
 .school-logo{
 width: 600px;    
 display: block;
-
 width: 500px;
 }
 
@@ -88,9 +87,10 @@ margin-top: 0px;
 } 
 
 .school-info{
-    color: white;
+   color: white;
     text-decoration: none;
     vertical-align: bottom;
+
 }
 .school-info:hover{
     color:rgb(252, 153, 5);   

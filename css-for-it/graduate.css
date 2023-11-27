@@ -1,4 +1,26 @@
+.navbar ul {
+    list-style: none;
+    background-color:#00357a ;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    margin-top: 0px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 10px;
+}
+.navbar a:hover{
+    background-color:blue ;
 
+}
+.navbar li{
+    float: right;
+   margin: 20px;
+}
 .head{
     text-align: center;
     color: #00357a;
